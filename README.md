@@ -21,7 +21,7 @@ Currently, I focus on developing web apps with React.js with TypeScript.
 
 #
 
-<details>
+
  <h3>Faris coding story</h3>
   I am Faris Hrustic, a student of Trece Gymnasium, majoring in IT. I have been interested in the IT industry for many years. In elementary school, I started learning phyton and making games for beginners. Then I continued to research and frontend got me interested. After passing javascript courses, I started to learn React and practice it practically.
 
