@@ -2,7 +2,7 @@
 
 **`Front-End Web Developer | React.js`**
 
-Second-year computer science high school student, web developer.
+Computer science student, web developer.
 Currently, I focus on developing web apps with React.js. 
 
 ---
